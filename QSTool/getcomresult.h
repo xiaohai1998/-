@@ -1,0 +1,7 @@
+#ifndef GETCOMRESULT_H
+#define GETCOMRESULT_H
+
+
+
+
+#endif // GETCOMRESULT_H

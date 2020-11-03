@@ -1,0 +1,2 @@
+#include "getcomresult.h"
+
